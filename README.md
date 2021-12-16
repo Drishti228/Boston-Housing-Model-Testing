@@ -1,1 +1,1 @@
-
+We have attempted to integrate the input and intended output as well as the output that we obtained from the respondents model and tested it, and we have proved if the model we constructed responds well to both the training and testing data!
